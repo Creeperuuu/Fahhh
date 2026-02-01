@@ -1,3 +1,8 @@
 [submodule "app/src/main/cpp/external/libHttpClient"]
 	path = app/src/main/cpp/external/libHttpClient
 	url = https://github.com/microsoft/libHttpClient.git
+	
+[submodule "app/src/main/cpp/unpaircore"]
+	path = app/src/main/cpp/unpaircore
+	url = https://github.com/Creeperuuu/unpaircore.git
+
